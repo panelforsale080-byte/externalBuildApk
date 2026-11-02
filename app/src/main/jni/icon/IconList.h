@@ -1,6 +1,6 @@
 #include "ICON.h"
 #include "SPELL.h"
-#include "Flagsicon.h"
+#include "FlagsIcon.h"
 
 struct Icon {
     GLuint texture = 0;
