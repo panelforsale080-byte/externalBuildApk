@@ -1,0 +1,11 @@
+.gradle/
+build/
+.cxx/
+.externalNativeBuild
+local.properties
+*.iml
+.idea/
+*.apk
+*.log
+app/src/main/obj/
+app/src/main/libs/
